@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Thu Mar  2 11:14:15 2017
-@author: Brandon Mitchell
+@author: Brandon Mitchell blm150430
 
 Assignment 1, Q1
 """

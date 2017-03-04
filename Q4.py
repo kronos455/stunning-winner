@@ -2,7 +2,8 @@
 """
 Created on Thu Mar  2 13:05:11 2017
 
-@author: bmitchell
+@author: Brandon Mithell blm150430
+Assignment 1, Q4
 """
 """
 Write a program that reads an integer and displays all its smallest factors, 
@@ -26,7 +27,7 @@ def prime_factors(n):
     if n > 1:
         factors.append(n) #appends factor last n
     return factors
-    #Found this at http://stackoverflow.com/questions/15347174/python-finding-prime-factors
+    
     
     
     

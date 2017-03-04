@@ -2,7 +2,9 @@
 """
 Created on Thu Mar  2 11:43:20 2017
 
-@author: bmitchell
+@author: Brandon Mitchell blm150430
+Assignment 1, Q2
+
 """
 
 """

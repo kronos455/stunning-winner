@@ -2,7 +2,8 @@
 """
 Created on Thu Mar  2 13:37:52 2017
 
-@author: bmitchell
+@author: Brandon Mitchell blm150430
+Assignment 1, Q5
 """
 #Import the packages necessary to complete computation.
 import numpy as np
